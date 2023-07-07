@@ -1,4 +1,4 @@
-# SignTrans: Sign Language Translation
+# SIGMO: Sign Language Translation webApp 🌐💻
 
 Revolutionizing Communication for the Deaf Community with NLP and ISL. Our mission is to harness Natural Language Processing (NLP) and Indian Sign Language (ISL) to empower individuals with hearing disabilities. Join us in breaking communication barriers and enabling fluent expression. Together, let's create a world of inclusive communication.
 
